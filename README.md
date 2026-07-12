@@ -54,7 +54,27 @@ QuickBuy is an E-Commerce Order Management Database System is designed to manage
 * VS Code – Development Environment
 
 ---
+Week 1 – Requirement Analysis
 
-# Conclusion
+Project: QuickBuy – E-Commerce Order Management Database System
 
-The E-Commerce Order Management Database System improves the efficiency of online shopping operations by managing customer data, products, orders, payments, shipments, and reviews effectively. The system provides better organization, faster processing, and improved business management.
+Files Included
+Business Requirement Document
+Requirement Analysis Report
+Software Requirement Specification (SRS)
+
+Summary
+
+Analyzed business requirements, project scope, stakeholders, and system requirements for the QuickBuy system.
+
+# Week 2 – Entity and Relationship Analysis
+
+Project: QuickBuy – E-Commerce Order Management Database System
+
+Files Included
+Entity Analysis Report
+Entity Relationship Analysis Report
+Summary
+
+Identified entities, attributes, primary keys, foreign keys, relationships, and cardinalities for the QuickBuy database system.
+
